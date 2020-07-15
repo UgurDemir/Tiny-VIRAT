@@ -1,2 +1,2 @@
 # Tiny-VIRAT
-Tiny-VIRAT dataset. It will be available soon.
+Tiny-VIRAT dataset. Download from https://www.crcv.ucf.edu/datasets/ugur/TinyVIRAT.zip
